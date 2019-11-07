@@ -1,0 +1,5 @@
+User-Agent: *
+
+Disallow: /page18.html
+Disallow: https://habr.com/
+Allow: /page19.html
